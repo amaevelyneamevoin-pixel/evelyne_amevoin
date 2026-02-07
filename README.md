@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/profile-pic.png" alt="Evelyne Amevoin" width="160" style="border-radius:50%;">
+</p>
+
 # Evelyne Amevoin  
 ### Économie de la santé | Data science | Statistiques appliquées
 
