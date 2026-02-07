@@ -1,4 +1,4 @@
-# 👋 Evelyne Amevoin  
+# Evelyne Amevoin  
 ### Économie de la santé | Data science | Statistiques appliquées
 
 🎓 Étudiante en **Master Health Economics – Data Science** (Le Mans Université / Institut du Risque et de l’Assurance),  
@@ -38,7 +38,7 @@ Mon travail repose sur la **structuration, l’analyse et la modélisation de do
 - Nettoyage, exploration et modélisation des données
 - Interprétation économique des résultats  
 
-👉 [Accéder au projet](LIEN_GITHUB_PYTHON)
+ [Accéder au projet](LIEN_GITHUB_PYTHON)
 
 ---
 
@@ -48,7 +48,7 @@ Mon travail repose sur la **structuration, l’analyse et la modélisation de do
 - Mise en relation avec les **dépenses publiques de santé** et les **infrastructures sanitaires**
 - Visualisation et interprétation statistique  
 
-👉 [Accéder au projet](LIEN_GITHUB_TUBERCULOSE)
+ [Accéder au projet](LIEN_GITHUB_TUBERCULOSE)
 
 ---
 
@@ -58,14 +58,14 @@ Mon travail repose sur la **structuration, l’analyse et la modélisation de do
 - Modélisation bayésienne et estimation probabiliste
 - Analyse comparative des stratégies thérapeutiques  
 
-👉 [Accéder au projet](LIEN_GITHUB_BAYESIEN)
+ [Accéder au projet](LIEN_GITHUB_BAYESIEN)
 
 ---
 
 ## 🏥 Expérience professionnelle
 
 ### Agent bancaire — Société Générale  
-📍 Riom | 07/2024 – 08/2024  
+ Riom | 07/2024 – 08/2024  
 - Fiabilisation et contrôle de **bases de données clients**
 - Production d’**indicateurs et reportings**
 - Sensibilisation à la qualité des données et à l’analyse chiffrée
@@ -94,5 +94,5 @@ Mon travail repose sur la **structuration, l’analyse et la modélisation de do
 
 ---
 
-⭐ Ce dépôt a vocation à présenter mes travaux en **économie de la santé et data science**.  
+Ce dépôt a vocation à présenter mes travaux en **économie de la santé et data science**.  
 N’hésitez pas à consulter les projets et à me contacter pour toute opportunité académique ou professionnelle.
